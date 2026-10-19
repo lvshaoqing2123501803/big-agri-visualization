@@ -1,0 +1,9 @@
+date,region_id,crop,market,price_usd_per_ton
+2025-01-01,R001,rice,CentralMarket,230
+2025-01-02,R001,rice,CentralMarket,235
+2025-01-01,R002,maize,EastMarket,180
+2025-01-02,R002,maize,EastMarket,175
+2025-01-01,R003,rice,WestMarket,240
+2025-01-02,R003,maize,WestMarket,190
+2025-02-01,R001,rice,CentralMarket,250
+2025-02-01,R002,maize,EastMarket,170
