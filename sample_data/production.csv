@@ -1,0 +1,6 @@
+date,region_id,crop,production_tons,area_ha
+2025-01-01,R001,rice,1200,150
+2025-01-01,R002,maize,800,200
+2025-01-01,R003,rice,950,120
+2025-02-01,R001,rice,1250,152
+2025-02-01,R002,maize,780,198
